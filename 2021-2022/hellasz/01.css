@@ -1,0 +1,16 @@
+body {
+	background-color: #fc9; 
+}
+h1 {
+	color: #f0f;
+	font-family: 'Open Sans', sans-serif;
+}
+p{
+	color: #b58;
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+	text-indent: 40px;
+}
+li {
+	font-family: 'Open Sans', sans-serif;
+}

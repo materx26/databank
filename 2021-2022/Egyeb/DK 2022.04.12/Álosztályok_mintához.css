@@ -1,0 +1,15 @@
+@charset "utf-8";
+a:link{
+	text-decoration: none;
+}
+a:visited{
+	color: grey;
+}
+a:hover{
+	color: orange;
+}
+
+a:active{
+	color: lime;
+}
+

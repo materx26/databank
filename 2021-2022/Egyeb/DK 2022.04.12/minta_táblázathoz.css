@@ -1,0 +1,27 @@
+@charset "utf-8";
+h1::first-letter{
+	text-decoration: dotted underline #CC0099;
+}
+p::first-line{
+	text-decoration: line-through;
+}
+table{
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+td, th{
+	padding: 5px;
+}
+tr:hover{
+	background-color: silver;
+}
+thead{
+	background-color: #99cc00;
+}
+tbody{
+	background-color: #ffffcc;
+}
+tfoot{
+	background-color: #cc0099;
+}

@@ -1,0 +1,16 @@
+function negyzet()
+{
+	var w = prompt("Adja meg a négyzet oldalhosszát!");
+	if (Math.floor(w)==w){
+		if (w > 10 && w < 20 && w%3==0){
+		document.write("Terület: "+ w*w);
+		document.write("Kerülete: "+ 4*w);
+		}
+		else{
+			alert("A szám nem nagyobb 10-nél és nem kisseb 20-nál vagy nem osztható 3-mal");
+		}
+	}else{
+		alert("Ez nem egész szám!");
+		negyzet();
+	}
+}

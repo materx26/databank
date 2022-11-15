@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="polo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="-7"
+     inkscape:window-height="828"
+     inkscape:window-width="1096"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="866.52032"
+     inkscape:cx="1067.0014"
+     inkscape:zoom="0.2825372"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Réteg 1">
+    <path
+       transform="scale(0.26458333)"
+       d="M 210.11133 200.00977 L 26.767578 336.92383 L 111.38477 450.23633 L 210.11133 376.51172 L 210.11133 821.10547 L 593.96875 821.10547 L 593.96875 388.13086 L 672.73047 457.2207 L 765.98828 350.90625 L 593.96875 200.00977 L 531.96094 200.00977 A 132.32999 132.32999 0 0 1 401.03125 313.14648 A 132.32999 132.32999 0 0 1 270.09961 200.00977 L 210.11133 200.00977 z "
+       style="fill:#008000;stroke:#000000;stroke-width:4.91339;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect12" />
+    <circle
+       transform="rotate(169.72975)"
+       r="34.210499"
+       cy="-164.1344"
+       cx="-78.36512"
+       id="path864"
+       style="fill:none;stroke:none;stroke-width:1.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text868"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       xml:space="preserve"><textPath
+         id="textPath873"
+         xlink:href="#path864"><tspan
+           id="tspan866"
+           style="stroke-width:0.264583;fill:#ffffff;">TALPASI IRKA ISKOLA</tspan></textPath></text>
+    <circle
+       style="fill:none;stroke:none;stroke-width:1.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path864-5"
+       cx="59.795921"
+       cy="171.8918"
+       r="34.210499"
+       transform="matrix(-0.57522087,0.81799814,0.81799814,0.57522087,0,0)" />
+    <text
+       id="text893"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       xml:space="preserve"><textPath
+         id="textPath895"
+         xlink:href="#path864-5"><tspan
+           id="tspan891"
+           style="stroke-width:0.264583;fill:#ffffff;">TALPAS</tspan></textPath></text>
+    <g
+       style="fill:#ffffff"
+       transform="rotate(-41.338041,-42.800019,200.64933)"
+       id="g917">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.868364;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect898"
+         width="8.8198929"
+         height="26.726952"
+         x="101.56242"
+         y="235.73172"
+         ry="4.4099464" />
+      <rect
+         ry="0"
+         y="254.97513"
+         x="101.56242"
+         height="14.967093"
+         width="8.8198929"
+         id="rect898-4"
+         style="fill:#ffffff;stroke:none;stroke-width:0.649825;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <path
+       transform="matrix(0.29025938,0.58786011,-0.61714451,0.33106396,255.62016,2.9803809)"
+       inkscape:transform-center-y="-0.57421288"
+       inkscape:transform-center-x="0.87425589"
+       d="m 104.64159,282.1496 -3.07917,-12.20736 12.11147,3.43704 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.8945078"
+       sodipodi:arg1="1.8473103"
+       sodipodi:r2="3.6343372"
+       sodipodi:r1="7.2686749"
+       sodipodi:cy="275.15704"
+       sodipodi:cx="106.62597"
+       sodipodi:sides="3"
+       id="path921"
+       style="fill:#ffffff;stroke:none;stroke-width:1.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="star" />
+    <circle
+       transform="rotate(-41.338041)"
+       r="1.0022607"
+       cy="161.67516"
+       cx="-15.891915"
+       id="path923"
+       style="fill:#008000;stroke:none;stroke-width:1.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       transform="rotate(-41.338041)"
+       style="fill:#008000;stroke:none;stroke-width:1.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path923-5"
+       cx="-15.860879"
+       cy="164.8494"
+       r="1.0022607" />
+    <circle
+       transform="rotate(-41.338041)"
+       r="1.0022607"
+       cy="168.64085"
+       cx="-15.825105"
+       id="path923-5-4"
+       style="fill:#008000;stroke:none;stroke-width:1.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

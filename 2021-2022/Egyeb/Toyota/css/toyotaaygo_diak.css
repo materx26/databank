@@ -1,0 +1,85 @@
+body{
+    background-color:blue;
+}
+
+  
+
+h1{
+    text-align: center;
+    text-decoration: none;
+/* 8b. feladat */
+    font-size: 30px;
+    margin-bottom: 20px;
+    /* legyen áttetsző 75%os mértékben */
+    background-color: rgba(248, 248, 248,0.75);
+    font-family: Verdana;   
+    color: #416618;
+    font-weight: bold;
+
+
+}
+/* 8c feladat  */
+p{
+   text-align:justify;
+   text-indent: 20px;
+}
+/* 8d feladat */
+.auto{
+   height:250px;
+   float:right;
+   margin-left: 25px;
+}
+/* 8e feladat */
+.kiemelt{
+    font-weight:bold;
+    color:red;
+}
+.forras{
+    text-align: right;
+}
+.btn-group{
+    background-color:blue;
+    padding: 10px;
+    margin-left: 8px;
+    margin-right: 200px;
+  
+
+}
+.btn-group li{
+    display:inline-block;
+     width: 100px;
+     
+}
+.btn-group a {
+    color:white;
+   
+}
+.btn-primary{
+    color: white;
+    
+}
+.container{
+    margin:auto;
+   
+    /* 8a. felada */
+    border: 2px solid lightgray;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+/* 8f feladat */
+.d-block{
+    margin:auto;
+
+    
+
+}
+table{
+    text-align: center;
+    border: 2px;
+    margin:0 auto;
+}
+header{
+	background-position: center center;
+}
+

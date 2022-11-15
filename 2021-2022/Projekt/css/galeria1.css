@@ -1,0 +1,26 @@
+
+
+ul.photos {
+	width: 780px;
+	margin: 0 auto;
+	padding: 2px;
+	list-style-type: none;
+	border: 1px solid #888;
+	background-color: rgba(255, 178, 54, 0.7);
+	overflow: auto;
+}
+	
+	ul.photos li {
+		float: left;
+	}
+			
+		ul.photos li a img {
+			margin: 3px;
+			padding: 2px;
+			background: #fff;
+			border: 2px solid #000;
+		}
+		
+		ul.photos li a:hover img {
+			border-color: red;
+		}

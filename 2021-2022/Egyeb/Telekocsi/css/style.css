@@ -1,0 +1,45 @@
+.kiemelt {
+	color: red;
+	font-weight: bold;
+}
+p{
+	text-indent: 20px;
+	text-align: justify;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background-color: blue;
+}
+.tartalom{
+	width: 1200px;
+	margin: 0px auto;
+	border: 2px darkgrey solid;
+	padding: 10px;
+	background-color: #abd0ee;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.auto{
+	width: 250px;
+	float: right;
+}
+.forras{
+	text-align: right;
+}
+.menu{
+	background-color: blue;
+	padding: 10px;
+}
+.menu li{
+	display:inline-block;
+}
+.menu a{
+	text-decoration: none;
+	color:yellow;
+}

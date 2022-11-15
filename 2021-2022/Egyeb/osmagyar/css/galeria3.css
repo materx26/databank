@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+h1 {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+ul.photos {
+	width: 804px;
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+}
+	
+	ul.photos li {
+		float: left;
+		margin: 4px;
+	}
+		
+		ul.photos li a img {
+			padding: 33px 40px;
+			background: url(../images/goldframe.gif);
+			border: 0;
+		}
+		
+

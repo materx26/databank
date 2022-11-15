@@ -1,0 +1,21 @@
+h1, h2 {
+	color:red;
+	
+}
+.center{
+	color:lime;
+}
+#kek {
+	color: blue;
+}
+#piros{
+	color:red;
+}
+
+a[title]{
+	background-color: blue;
+}
+
+a[title="A"]{
+	background-color: lime;
+}

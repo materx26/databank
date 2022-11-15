@@ -1,0 +1,57 @@
+header{    
+    background-position: center center; 
+	width:650px;
+    height: 390px;
+    background-image: url(../img/cimborito.jpg);
+}
+
+h1{
+    background-color: rgba(248, 248, 248,0.40);
+    margin-top: 320px;
+    padding-left: 20rem; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+    color: #000000;
+    font-weight: bold;
+	
+}
+
+h3{    
+    font-weight: bold;
+    color: #8B8787;    
+    text-align: left;
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+li{
+    /* list-style-image: url(../img/citrom.jpg); */
+	
+    float: left;
+    margin-left: 40px;
+}
+
+td,th{
+    text-align: center;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px;  
+    text-transform: uppercase;  
+}
+
+.navbar{
+    background-color: #290D7F;
+	background-position: center center; 
+}	
+
+p{
+    text-align: justify;
+    font-size: 16px;
+    font-family: "Monaco";
+}
+
+img{
+    float: left; 
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
