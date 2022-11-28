@@ -3,7 +3,7 @@ import random as r
 wr = open("H:\out.txt","w")
 def alahuzas(ilyen):
     print(ilyen)
-    print("--------------------------------")
+    print("-"*len(ilyen))
 szam1 = int(input("Adjon meg egy számot! "))
 szam2 = r.randint(10,50)
 SZAM3 = 40
