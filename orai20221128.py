@@ -71,5 +71,6 @@ with open("H:\JakusMate.txt","w") as file:
 #7
 re = open("H:\JakusMate.txt","r")
 alahuzas(re.readline())
+re.close()
 wr.write(re.readline())
 wr.close()
