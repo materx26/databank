@@ -26,6 +26,6 @@ for i in range(3):
     magassag.append(float(input(f"Adja meg a(z) {i+1}. hegymászó által megmászott hegy magasságát! ")))
     print(f"{nevek[i]} {meter(magassag[i]):0.2f}km magasra mászott")
     print(nagybetu(nevek[i]))
-    print(f"{nevelo(nevek[0])} {nevek[i]}.")
+    print(f"{nevelo(nevek[i])} {nevek[i]}.")
 
 
